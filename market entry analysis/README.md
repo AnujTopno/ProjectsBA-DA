@@ -1,0 +1,1 @@
+This folder contains files and analysis related to market entry strategies.
