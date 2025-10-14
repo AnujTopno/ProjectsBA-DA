@@ -1,1 +1,1 @@
-This folder contains files and analysis related to market entry strategies.
+This folder contains raw data files and analysis files related to to trends in india and china and their purchasing habits for mobiles. in this file we will see if a company who is successfull in china can enter indian market or not.
